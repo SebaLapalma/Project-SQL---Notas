@@ -1,3 +1,7 @@
+"""
+Este archivo deberá encontrarse dentro de una carpeta llamada notas, para su utilización posterior
+"""
+
 import notas.nota as modelo
 
 class Acciones:
